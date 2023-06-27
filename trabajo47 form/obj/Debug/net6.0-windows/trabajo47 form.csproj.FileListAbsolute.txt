@@ -1,0 +1,34 @@
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.csproj.AssemblyReference.cache
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47_form.Form1.resources
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.csproj.GenerateResource.cache
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.AssemblyInfoInputs.cache
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.AssemblyInfo.cs
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.csproj.CoreCompileInputs.cache
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\bin\Debug\net6.0-windows\trabajo47 form.exe
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\bin\Debug\net6.0-windows\trabajo47 form.deps.json
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\bin\Debug\net6.0-windows\trabajo47 form.runtimeconfig.json
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\bin\Debug\net6.0-windows\trabajo47 form.dll
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\bin\Debug\net6.0-windows\trabajo47 form.pdb
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.dll
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\obj\Debug\net6.0-windows\refint\trabajo47 form.dll
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.pdb
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.genruntimeconfig.cache
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\trabajo 47\trabajo47 form\obj\Debug\net6.0-windows\ref\trabajo47 form.dll
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\bin\Debug\net6.0-windows\trabajo47 form.exe
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\bin\Debug\net6.0-windows\trabajo47 form.deps.json
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\bin\Debug\net6.0-windows\trabajo47 form.runtimeconfig.json
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\bin\Debug\net6.0-windows\trabajo47 form.dll
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\bin\Debug\net6.0-windows\trabajo47 form.pdb
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.csproj.AssemblyReference.cache
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47_form.Form1.resources
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.csproj.GenerateResource.cache
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.AssemblyInfoInputs.cache
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.AssemblyInfo.cs
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.csproj.CoreCompileInputs.cache
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.dll
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\obj\Debug\net6.0-windows\refint\trabajo47 form.dll
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.pdb
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\obj\Debug\net6.0-windows\trabajo47 form.genruntimeconfig.cache
+C:\Users\santi_kaeza3x\OneDrive\Escritorio\santy\Escuela\programacion\Trabajo-47\trabajo47 form\obj\Debug\net6.0-windows\ref\trabajo47 form.dll

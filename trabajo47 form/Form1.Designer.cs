@@ -32,6 +32,7 @@
             Num1 = new TextBox();
             suma = new Button();
             Reset = new Button();
+            label2 = new Label();
             SuspendLayout();
             // 
             // label1
@@ -72,11 +73,22 @@
             Reset.UseWaitCursor = true;
             Reset.Click += Reset_Click;
             // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI", 15.75F, FontStyle.Bold, GraphicsUnit.Point);
+            label2.Location = new Point(421, 79);
+            label2.Name = "label2";
+            label2.Size = new Size(207, 30);
+            label2.TabIndex = 6;
+            label2.Text = "Ingrese 10 numeros";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1002, 541);
+            Controls.Add(label2);
             Controls.Add(Reset);
             Controls.Add(suma);
             Controls.Add(Num1);
@@ -93,5 +105,6 @@
         private TextBox Num1;
         private Button suma;
         private Button Reset;
+        private Label label2;
     }
 }
