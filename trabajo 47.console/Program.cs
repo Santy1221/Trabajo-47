@@ -2,12 +2,21 @@
 int suma = 0;
 int suma_par = 0;
 int num_mayor = 0;
+int nro;
+
 do
 {
-    Console.WriteLine($"escribe el {contador + 1}º numero a sumar");
-
-    var nro = int.Parse(Console.ReadLine());
-
+    do
+    {
+        Console.WriteLine($"escribe el {contador + 1}º numero a sumar");
+        var str = Console.ReadLine();
+        if (int.TryParse(str, out nro))
+        {
+            break;
+        }
+        Console.WriteLine("Número no válido");
+    }
+    while (true);
     contador++;
     suma += nro;
     if (espar(nro))
